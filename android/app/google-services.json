@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "381106510605",
+    "project_id": "tecnico-salfa-nmvnes",
+    "storage_bucket": "tecnico-salfa-nmvnes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381106510605:android:60fd4df3c2472c9818ee44",
+        "android_client_info": {
+          "package_name": "com.salfa.adminservicio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5kgf4BjDUbeRrXWC9L8SnKkhuvW6GC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381106510605:android:8f534356b717744618ee44",
+        "android_client_info": {
+          "package_name": "com.salfa.tecnicosalfa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5kgf4BjDUbeRrXWC9L8SnKkhuvW6GC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
